@@ -1,9 +1,9 @@
 # A.J. Kueterman
 Mobile developer working to build stable and tested enterprise Android and iOS applications.  Highly focused, detail oriented coder with a proven ability to deliver results for clients.
 
-**A.J. Kueterman
-2200 Madison Rd. Apt. 5
-Cincinnati, OH 45208**
+**A.J. Kueterman | 
+2200 Madison Rd. Apt. 5 | 
+Cincinnati, OH 45208** | 
 
 [ajkueterman@gmail.com](mailto:ajkueterman@gmail.com)
 (937)-430-2785
