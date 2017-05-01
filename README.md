@@ -3,9 +3,9 @@ Mobile developer working to build stable and tested enterprise Android and iOS a
 
 **A.J. Kueterman | 
 2200 Madison Rd. Apt. 5 | 
-Cincinnati, OH 45208** | 
+Cincinnati, OH 45208** 
 
-[ajkueterman@gmail.com](mailto:ajkueterman@gmail.com)
+[ajkueterman@gmail.com](mailto:ajkueterman@gmail.com) | 
 (937)-430-2785
 
 ## Core Skills
