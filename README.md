@@ -21,7 +21,7 @@ And if there's time, some [stuff I like](#stuff-i-like).
 *(June 2016 →	 Present)*
 
 * Develop application features for major business initiatives in both iOS and Android
-* Support major Fifth Third Bank consumer applications including Fifth Third Mobile Banking ([iOS](https://itunes.apple.com/us/app/fifth-third-mobile-banking/id468738585?mt=8)/[Android](https://play.google.com/store/apps/details?id=com.clairmail.fth)), [53.com](https://www.53.com/), and supporting services
+* Support major Fifth Third Bank consumer applications including Fifth Third Mobile Banking ([iOS](https://itunes.apple.com/us/app/fifth-third-mobile-banking/id468738585?mt=8)/[Android](https://play.google.com/store/apps/details?id=com.clairmail.fth)), [53.com](https://www.53.com/), and related services
 * Experience as project Technical Lead on major Consumer Bank business initiatives impacting applications across the business
 * Continually improving the applications through testing
 
