@@ -59,10 +59,10 @@ Please do not hesitate to reach out to me directly via my email, [ajkueterman.co
 
 References will be provided upon request.
 
-### <a name="stuff-i-like"></a>(Bonus) Stuff I Like
+## <a name="stuff-i-like"></a>(Bonus) Stuff I Like
 
 * [Atom](https://atom.io/) for text editing and JavaScript
-* Markdown and [Mac Down](https://macdown.uranusjr.com/) for note-taking and wiki-making (also this CV)
+* Markdown and [MacDown](https://macdown.uranusjr.com/) for note-taking and wiki-making (also this CV)
 * [Github Pages](https://pages.github.com/) for hosting [my site](http://ajkueterman.com), and Tumblr for hosting [my gifs](http://starwarsgifs.com)!
 * Movies, TV, music, and obsessively listening to podcasts for my news and entertainment
 
